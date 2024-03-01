@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "FGAE Report",
+    "slug": "BaseApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/fgae.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/fgae.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.aberamohammed.BaseApp"
+    },
+    "web": {
+      "favicon": "./assets/fgae.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "dbe22e2b-0d2b-4838-bab5-f1f10683c395"
+      }
+    }
+  }
+}
